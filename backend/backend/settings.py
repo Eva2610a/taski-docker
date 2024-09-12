@@ -1,3 +1,4 @@
+"""Текст чтоб убрать ошибку пип на время спринта."""
 import os
 from pathlib import Path
 
